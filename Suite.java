@@ -10,8 +10,8 @@ package DiagramaClase;
 public class Suite extends Habitacion{
 
 	//Atributos de la clase Suite
-	protected int metros;
-	protected String servicios;
+	private int metros;
+	private String servicios;
 	
 	/**
 	 * Constructor de la clase Suite.
