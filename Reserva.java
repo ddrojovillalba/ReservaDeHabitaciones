@@ -12,10 +12,10 @@ import java.util.Date;
 public class Reserva {
 
 	//Atributos de la clase Reserva
-	int numReserva;
-	Date fechaEntrada;
-	Date fechaSalida;
-	int numPersonas;
+	private int numReserva;
+	private Date fechaEntrada;
+	private Date fechaSalida;
+	private int numPersonas;
 	
 	/**
 	 * Constructor de la clase Reserva.
