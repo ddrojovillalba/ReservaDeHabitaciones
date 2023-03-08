@@ -10,9 +10,9 @@ package DiagramaClase;
 public class Cliente {
 	
 	//Atributos de la clase Cliente
-	protected int numCliente;
-	protected String nombre;
-	protected String telefono;
+	private int numCliente;
+	private String nombre;
+	private String telefono;
 	
 	/**
 	 * Constructor de la clase Cliente.
