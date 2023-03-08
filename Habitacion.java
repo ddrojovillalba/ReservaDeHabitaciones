@@ -10,9 +10,9 @@ package DiagramaClase;
 public class Habitacion {
 
 	//Atributos de la clase Habitacion
-	private int numHabitacion;
-	private String estado;
-	private int numCamas;
+	protected int numHabitacion;
+	protected String estado;
+	protected int numCamas;
 	
 	/**
 	 * Constructor de la clase Habitacion
