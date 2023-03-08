@@ -10,7 +10,7 @@ package DiagramaClase;
 public class Doble extends Habitacion {
 
 	//Atributos de la clase Doble
-	protected boolean minibar;
+	private boolean minibar;
 	
 	/**
 	 * Constructor de la clase Doble.
